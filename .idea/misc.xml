@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/layout/button.xml" value="0.10390625" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/layout/buttonlnsdklocation.xml" value="0.1" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/layout/temisdk_location_row.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/layout/webview.xml" value="0.152" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/app/src/main/res/xml/securitynetwork.xml" value="0.12128712871287128" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/myapplication/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_control/myapplication/src/main/res/xml/securitynetworkk.xml" value="0.1" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_controll/app/src/main/res/layout/activity_2.xml" value="0.1" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_controll/app/src/main/res/layout/button.xml" value="0.1" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_controll/app/src/main/res/layout/temisdk_location_row.xml" value="0.1" />
+        <entry key="..\:/Users/prawe/Desktop/Temi_controll/app/src/main/res/layout/webview.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

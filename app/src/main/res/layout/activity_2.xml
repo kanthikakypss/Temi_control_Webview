@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity2">
+
+    <!--    <Button-->
+<!--        android:id="@+id/B_web"-->
+<!--        android:layout_width="257dp"-->
+<!--        android:layout_height="115dp"-->
+<!--        android:layout_marginTop="56dp"-->
+<!--        android:text="สั่งอาหาร"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.93"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/btn_socket"-->
+<!--        android:layout_width="243dp"-->
+<!--        android:layout_height="130dp"-->
+<!--        android:text="Socket"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.93"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.535" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView"-->
+<!--        android:layout_width="357dp"-->
+<!--        android:layout_height="175dp"-->
+<!--        android:text=""-->
+<!--        app:layout_constraintEnd_toStartOf="@+id/btn_socket"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        tools:ignore="MissingConstraints"-->
+<!--        tools:layout_editor_absoluteY="323dp" />-->
+
+    <Button
+        android:id="@+id/B_Back"
+        android:layout_width="329dp"
+        android:layout_height="150dp"
+        android:autoSizeTextType="uniform"
+        android:text="Back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.136" />
+
+    <Button
+        android:id="@+id/B_gob"
+        android:layout_width="331dp"
+        android:layout_height="151dp"
+        android:layout_marginBottom="100dp"
+        android:autoSizeTextType="uniform"
+        android:text="GO B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.153"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="1312dp"
+        android:layout_height="824dp"
+        app:srcCompat="@drawable/_04c0ede7c0f18865abc4eeb77fb49fc"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="-12dp" />
+
+    <Button
+        android:id="@+id/B_goc"
+        android:layout_width="341dp"
+        android:layout_height="148dp"
+        android:autoSizeTextType="uniform"
+        android:text="GO C"
+        tools:layout_editor_absoluteX="755dp"
+        tools:layout_editor_absoluteY="549dp"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

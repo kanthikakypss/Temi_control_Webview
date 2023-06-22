@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--    <Button-->
+    <!--        android:id="@+id/next"-->
+    <!--        android:layout_width="354dp"-->
+    <!--        android:layout_height="152dp"-->
+    <!--        android:autoSizeTextType="uniform"-->
+    <!--        android:text="Next"-->
+    <!--        app:layout_constraintBottom_toBottomOf="parent"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintHorizontal_bias="0.844"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:layout_constraintVertical_bias="0.904"-->
+    <!--        tools:ignore="MissingConstraints" />-->
+
+    <Button
+        android:id="@+id/buttonnhome"
+        android:layout_width="349dp"
+        android:layout_height="151dp"
+        android:autoSizeTextType="uniform"
+        android:text="Home"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.152"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.921" />
+
+    <Button
+        android:id="@+id/buttonA"
+        android:layout_width="357dp"
+        android:layout_height="146dp"
+        android:autoSizeTextType="uniform"
+        android:text="GO A "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.163" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="1312dp"
+        android:layout_height="824dp"
+        app:srcCompat="@drawable/_04c0ede7c0f18865abc4eeb77fb49fc"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="-12dp" />
+
+    <Button
+        android:id="@+id/buttonB"
+        android:layout_width="331dp"
+        android:layout_height="144dp"
+        android:autoSizeTextType="uniform"
+        android:text="GO B "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.827"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.163"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/buttonC"
+        android:layout_width="330dp"
+        android:layout_height="149dp"
+        android:autoSizeTextType="uniform"
+        android:text="GO C "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.827"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.921" />
+
+    <!--<TextView
+        android:id="@+id/textView"
+        android:layout_width="360dp"
+        android:layout_height="171dp"
+        android:text=""
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="89dp"
+        tools:ignore="MissingConstraints" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
